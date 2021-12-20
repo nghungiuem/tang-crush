@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'em à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    introTitle: 'Bbi xing gái !',
+    introDesc: `Thứ 6 này là nô en đó, không biết là em có rảnh nhiều không ??`,
+    btnIntro: 'Em rảnhh',
+    title: 'Tối thứ 6 đi chơi noel với tuii nhaa 😙',
+    desc: 'Mình đi ăn xong rùi đi chơiii ',
+    btnYes: 'Đến là đón nhaa',
+    btnNo: 'Không em bận rồi',
+    question:'Em muốn đi ăn hay đi xem phimm',
+    btnReply: 'Gửi cho anh ',
+    reply: 'Em thích gì cũng được hêtt',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messDesc: 'Tối 7h anh qua đón nhé bbi iuu.',
+    btnAccept: 'Okiiiii lun ',
+    messLink: 'https://www.facebook.com/nghungyeuem.no1/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
